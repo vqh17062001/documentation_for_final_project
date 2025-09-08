@@ -1,0 +1,6 @@
+userID . action. entity. time? 
+
+   'PERM_' 
+      + e.entity_ID + '_' 
+      + a.action_ID + '_' 
+	  +	roles   AS permission_ID,
